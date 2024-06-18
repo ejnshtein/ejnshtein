@@ -6,7 +6,7 @@ What is deserve to exists in this world:
 - Anime
 - ~~Anime tiddies~~
 - Steins;Gate
-- Manjaro Linux with KDE
+- Fedora with KDE
 - AMD Ryzen
 - Google
 - Android
