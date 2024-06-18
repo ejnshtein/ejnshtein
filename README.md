@@ -1,13 +1,12 @@
-What is deserve to exists in this world:
+What deserves to exist in this world:
 - VS Code
 - Docker
 - Typescript
+- Effector
 - Telegram
 - Anime
-- ~~Anime tiddies~~
 - Steins;Gate
 - Fedora with KDE
 - AMD Ryzen
-- Google
 - Android
 - Me
